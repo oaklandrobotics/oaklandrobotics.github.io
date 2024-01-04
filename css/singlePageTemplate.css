@@ -17,7 +17,7 @@ body {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	font-style: normal;
-	font-weight: 200;
+	font-weight: 400;
 }
 
 /* Container */
@@ -111,7 +111,7 @@ ul li:hover a {
 	text-align: center;
 	color: #FFFFFF;
 	margin-top: 4px;
-	font-weight: lighter;
+	/* font-weight: lighter; */
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
@@ -120,7 +120,7 @@ ul li:hover a {
 .text_column {
 	width: 29%;
 	text-align: justify;
-	font-weight: lighter;
+	/* font-weight: lighter; */
 	line-height: 25px;
 	float: left;
 	padding-left: 20px;
@@ -162,7 +162,7 @@ ul li:hover a {
 	color: #FFFFFF;
 	text-align: center;
 /* 	width: 100%; */
-	font-weight: lighter;
+/* 	font-weight: lighter; */
 	line-height: 23px;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -219,7 +219,7 @@ footer .footer_column p {
 	padding-right: 30px;
 	text-align: justify;
 	line-height: 25px;
-	font-weight: lighter;
+	/* font-weight: lighter; */
 	margin-left: 20px;
 	margin-right: 20px;
 }

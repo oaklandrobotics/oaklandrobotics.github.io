@@ -170,6 +170,21 @@ ul li:hover a {
 	margin-left: 0px;
 }
 
+.sponsor-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.sponsor-images .parallax_image {
+    position: static;
+    display: block;
+    height: auto;
+    margin: 0;
+}
+
 .parallax_image {
 	display: block;
 	margin-left: auto;
